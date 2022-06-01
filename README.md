@@ -9,10 +9,12 @@ Software Developer with 3+ years of experience in PHP Laravel Framework, Also wo
 *   🚀  I'm currently working on [eSparkBiz Technologies Private Limited - A CMMI Level 3 Company](http://www.esparkinfo.com)
 *   🧠  I'm learning Full Stack Developer
 *   🤝  I'm open to collaborating on Klikinz, Adlaw, OneIda County
-*   ⚡  My Only life goal the best teacher is you. you teach yourself<a href="https://www.twitter.com/Riteshp70863671" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Riteshp70863671?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+*   ⚡  My Only life goal the best teacher is you. you teach yourself<a href="https://www.twitter.com/Riteshp70863671" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Riteshp70863671?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/ritesh845" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ritesh845?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+                  src="https://img.shields.io/github/followers/ritesh845?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ 
+ ### Skills
+ <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -41,14 +43,10 @@ Software Developer with 3+ years of experience in PHP Laravel Framework, Also wo
  ### Socials
                   
 <p align="left">
- <a href="https://www.github.com/ritesh845" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-        
-<a href="http://www.instagram.com/ritesh3208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-        
-<a href="https://www.linkedin.com/in/ritesh-panchal-247315ba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-        
-<a href="https://www.twitter.com/Riteshp70863671" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  
+<a href="https://www.github.com/ritesh845" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>        
+<a href="http://www.instagram.com/ritesh3208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>        
+<a href="https://www.linkedin.com/in/ritesh-panchal-247315ba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>        
+<a href="https://www.twitter.com/Riteshp70863671" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  
 </p>
 
 ### Badges<b>My GitHub Stats</b>
