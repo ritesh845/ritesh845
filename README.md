@@ -9,7 +9,8 @@ Software Developer with 3+ years of experience in PHP Laravel Framework, Also wo
 *   🚀  I'm currently working on [eSparkBiz Technologies Private Limited - A CMMI Level 3 Company](http://www.esparkinfo.com)
 *   🧠  I'm learning Full Stack Developer
 *   🤝  I'm open to collaborating on Klikinz, Adlaw, OneIda County
-*   ⚡  My Only life goal the best teacher is you. you teach yourself<a href="https://www.twitter.com/Riteshp70863671" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Riteshp70863671?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+*   ⚡  My Only life goal the best teacher is you. you teach yourself
+<a href="https://www.twitter.com/Riteshp70863671" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Riteshp70863671?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/ritesh845" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ritesh845?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  
