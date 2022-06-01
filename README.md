@@ -53,7 +53,15 @@ Software Developer with 3+ years of experience in PHP Laravel Framework, Also wo
 <a href="http://www.github.com/ritesh845"><img src="https://github-readme-stats.vercel.app/api?username=ritesh845&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ritesh845's GitHub stats" /></a>
 </br>
 <b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/ritesh845/klikinz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=klikinz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ritesh845/silverstripe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=silverstripe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/ritesh845/chat-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center">
+<a href="https://github.com/ritesh845/tirupati-finance" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=tirupati-finance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ritesh845/tirthankarfinance.com" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=tirthankarfinance.com&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ritesh845/physiotherapyindia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=physiotherapyindia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ritesh845/cauris_node" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=cauris_node&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+ <a href="https://github.com/ritesh845/chat-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh845&repo=chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 ### Support Me
